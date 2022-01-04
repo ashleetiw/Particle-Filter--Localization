@@ -23,12 +23,9 @@ The data is processed in the following way:
 7. The error because of collecting the odometry data
 
 ### Localization using only motion model
-
-
-
+![m](https://github.com/ashleetiw/Particle-Filter--Localization/blob/master/images/pf4.png)
 ### Particle filter implementation on the dataset
-
-
+![PF](https://github.com/ashleetiw/Particle-Filter--Localization/blob/master/images/video.gif)
 
 ### Run 
 python `code.py`
